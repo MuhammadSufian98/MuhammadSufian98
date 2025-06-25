@@ -20,7 +20,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSufian98&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://github.com/MuhammadSufian98&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -29,6 +29,7 @@
 <div align="center">
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,6 +38,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,6 +46,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -95,22 +98,22 @@
 
 ```javascript
 const muhammadSufian = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Java", "C++", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "REST APIs", "Responsive Design"]
+  pronouns: "He/Him",
+  code: ["JavaScript", "Java", "C++", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS", "Bootstrap"],
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed!"
+    backEnd: {
+      js: ["Node.js", "Express"],
+    },
+    databases: ["MongoDB", "MySQL"],
+    misc: ["Git", "REST APIs", "Responsive Design"],
+  },
+  currentFocus: "Building scalable web applications",
+  funFact: "I debug with console.log() and I'm not ashamed!",
 };
 ```
 
