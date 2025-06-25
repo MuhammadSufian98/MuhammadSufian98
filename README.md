@@ -126,16 +126,6 @@ const muhammadSufian = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🐍 My coding journey in a nutshell
-
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake animation" />
-
-### 🎌 Anime Developer Mode: ON!
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
-
-</div>
-
 ## 🎭 Developer Life Chronicles
 
 <div align="center">
