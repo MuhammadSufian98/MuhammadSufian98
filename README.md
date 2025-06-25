@@ -266,7 +266,6 @@ while (awake) {
 
 👻 _"I don't always test my code, but when I do, I do it in production."_ – The Bravest Developer
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80;May+the+source+be+with+you!+%E2%AD%90;404%3A+Social+Life+Not+Found+%F0%9F%98%82;Powered+by+Coffee+and+Determination!+%E2%98%95;Keep+calm+and+code+on!+%F0%9F%A7%98%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
