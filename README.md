@@ -87,15 +87,6 @@
 
 </div>
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadsufian&repo=project1&theme=tokyonight)](https://github.com/muhammadsufian/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadsufian&repo=project2&theme=tokyonight)](https://github.com/muhammadsufian/project2)
-
-</div>
-
 ## 💼 What I Do
 
 ```javascript
