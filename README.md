@@ -19,8 +19,8 @@
 - 💡 Love turning ideas into reality through code
 
 <div align="center">
-  
-![Profile Views](https://github.com/MuhammadSufian98&color=blueviolet&style=flat-square&label=Profile+Views)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSufian98&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/MuhammadSufian98)
 
 </div>
 
@@ -61,10 +61,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufian98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufian98&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufian98&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
@@ -81,7 +77,7 @@
 
 <div align="center">
   
-[![Muhammad Sufian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsufian&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Sufian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSufian98&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -89,8 +85,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadsufian&repo=project1&theme=tokyonight)](https://github.com/muhammadsufian/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadsufian&repo=project2&theme=tokyonight)](https://github.com/muhammadsufian/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSufian98&repo=project1&theme=tokyonight)](https://github.com/MuhammadSufian98/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSufian98&repo=project2&theme=tokyonight)](https://github.com/MuhammadSufian98/project2)
 
 </div>
 
@@ -104,52 +100,26 @@ const muhammadSufian = {
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "Bootstrap"],
+      css: ["Tailwind CSS", "Bootstrap"]
     },
     backEnd: {
-      js: ["Node.js", "Express"],
+      js: ["Node.js", "Express"]
     },
     databases: ["MongoDB", "MySQL"],
-    misc: ["Git", "REST APIs", "Responsive Design"],
+    misc: ["Git", "REST APIs", "Responsive Design"]
   },
   currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log() and I'm not ashamed!",
+  funFact: "I debug with console.log() and I'm not ashamed!"
 };
-```
 
-## 🎯 Current Goals
-
-- 🔭 Working on exciting full-stack projects
-- 🌱 Learning advanced React patterns and microservices
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about **React, Node.js, MongoDB, or anything tech**
-- ⚡ Fun fact: **I love solving complex problems and turning coffee into code!**
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsufian)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammadsufian)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsufian@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammadsufian.dev)
-
-</div>
-
-<div align="center">
-  
-### ✨ Thanks for visiting my profile! ✨
-  
-<img src="https://github.com/muhammadsufian/muhammadsufian/raw/main/assets/wave.gif" width="30px">
-
-</div>
 
 ---
 
 <div align="center">
-  
+
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+```
