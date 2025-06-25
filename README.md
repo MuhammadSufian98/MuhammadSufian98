@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi there, I'm Muhammad Sufian!
 
 <div align="center">
@@ -23,7 +20,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadsufian&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSufian98&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -58,14 +55,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsufian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsufian&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadSufian98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufian98&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufian&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufian98&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,7 +70,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadsufian&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadSufian98&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,4 +150,3 @@ const muhammadSufian = {
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
